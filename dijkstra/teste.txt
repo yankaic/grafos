@@ -1,0 +1,27 @@
+20 25
+a b 2
+b j 1
+j e 1
+e f 8
+a h 9
+a c 6
+c m 5
+m n 2
+n o 8
+o r 10
+o d 4
+d h 5
+g h 3
+r i 3
+q i 1
+k q 2
+q t 3
+k t 8
+j k 7
+l k 9
+m l 7
+s l 9
+s m 1
+i f 9
+i g 3
+a
